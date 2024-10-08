@@ -1,7 +1,7 @@
 const pokemonList = [
-    { name: "Bulbasaur", id: 1, image: "004.png" },
-    { name: "Charmander", id: 4, image: "001.png" },
-    { name: "Squirtle", id: 7, image: "800px-Squirtle.png" },
+    { name: "Bulbasaur", id: 1, image: "pokemonsImagen/Bulvazor.png" },
+    { name: "Charmander", id: 4, image: "pokemonsImagen/charmander.png" },
+    { name: "Squirtle", id: 7, image: "pokemonsImagen/squirtle.png"},
     // Agrega más Pokémon aquí
 ];
 
